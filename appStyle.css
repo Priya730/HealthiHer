@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #224941 url('./img/bg.jpg') no-repeat center center/cover;
+    background: #224941 url('HealthiHer/img/bg.jpg') no-repeat center center/cover;
     color: #fff;
     font-family: 'Maven Pro', sans-serif;
     min-height: 100vh;
